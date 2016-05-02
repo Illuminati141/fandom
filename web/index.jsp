@@ -166,7 +166,11 @@
                     <div class="col-sm-4">
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
+<<<<<<< HEAD
+                                <img class="activator" src="resourse/admin/MB%20(2).jpg">
+=======
                                 <img class="activator" src="http://materializecss.com/images/sample-1.jpg">
+>>>>>>> 7e8394367435312ddc066d3c333ef78317e8ef87
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">Special Offer 1<i class="material-icons right">more_vert</i></span>
